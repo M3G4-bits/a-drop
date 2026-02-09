@@ -35,7 +35,7 @@ const UseCasesSection = () => {
             Made for <span className="gradient-text">Everyone</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Whether you're a student, commuter, or driver — RideShare helps you save time and money.
+            Whether you're a student, commuter, or driver — A drop helps you save time and money.
           </p>
         </div>
         
