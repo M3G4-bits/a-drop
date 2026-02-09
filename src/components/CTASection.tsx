@@ -15,7 +15,7 @@ const CTASection = () => {
               Ready to Start Saving?
             </h2>
             <p className="text-lg text-primary-foreground/80 mb-8 max-w-xl mx-auto">
-              Join thousands of smart commuters who are already saving money and time with RideShare.
+              Join thousands of smart commuters who are already saving money and time with A Drop.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
