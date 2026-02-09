@@ -11,10 +11,10 @@ const Footer = () => {
               <div className="w-10 h-10 gradient-primary rounded-xl flex items-center justify-center">
                 <Users className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">RideShare</span>
+              <span className="text-xl font-bold">A drop</span>
             </div>
             <p className="text-background/70 max-w-sm mb-6">
-              Connecting riders going the same way. Save money, reduce wait times, and make commuting better for everyone.
+              Connecting riders going the same way. Save money, reduce wait times, and make commuting better for everyone with A drop.
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="w-10 h-10 bg-background/10 hover:bg-background/20 rounded-full flex items-center justify-center transition-colors">
@@ -43,7 +43,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-background/70">
                 <Mail className="w-4 h-4" />
-                hello@rideshare.com
+                hello@adrop.com
               </li>
               <li className="flex items-center gap-2 text-background/70">
                 <Phone className="w-4 h-4" />
@@ -59,7 +59,7 @@ const Footer = () => {
         
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-background/10 text-center text-background/50 text-sm">
-          <p>© 2024 RideShare. All rights reserved. A prototype for smart ride matching.</p>
+          <p>© 2024 A drop. All rights reserved. A prototype for smart ride matching.</p>
         </div>
       </div>
     </footer>

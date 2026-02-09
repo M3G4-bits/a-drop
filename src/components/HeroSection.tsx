@@ -25,7 +25,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-lg text-muted-foreground mb-8 max-w-lg mx-auto lg:mx-0">
-              Connect with people heading your way. Split fares, skip the wait, and make every journey more affordable and efficient.
+              Connect with people heading your way. Split fares, skip the wait, and make every journey more affordable and efficient with A drop.
             </p>
             
             {/* Stats */}
