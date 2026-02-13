@@ -25,7 +25,7 @@ const SignIn = () => {
       toast({ title: "Sign in failed", description: error.message, variant: "destructive" });
     } else {
       toast({ title: "Welcome back!" });
-      navigate("/");
+      navigate("/dashboard");
     }
   };
 
