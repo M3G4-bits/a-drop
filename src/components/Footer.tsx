@@ -41,11 +41,11 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-background/70">
                 <Mail className="w-4 h-4" />
-                hello@adrop.com
+                ibrahimoshio203@gmail.com
               </li>
               <li className="flex items-center gap-2 text-background/70">
                 <Phone className="w-4 h-4" />
-                +234 800 000 0000
+                +234 806 1426 080
               </li>
               <li className="flex items-center gap-2 text-background/70">
                 <MapPin className="w-4 h-4" />
