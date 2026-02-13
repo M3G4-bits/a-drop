@@ -1,4 +1,5 @@
-import { Users, Mail, Phone, MapPin } from "lucide-react";
+import { Mail, Phone, MapPin } from "lucide-react";
+import adropLogo from "@/assets/adrop-logo.jpg";
 
 const Footer = () => {
   return (
@@ -8,10 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 gradient-primary rounded-xl flex items-center justify-center">
-                <Users className="w-5 h-5 text-primary-foreground" />
-              </div>
-              <span className="text-xl font-bold">A drop</span>
+              <img src={adropLogo} alt="A Drop logo" className="h-10" />
             </div>
             <p className="text-background/70 max-w-sm mb-6">
               Connecting riders going the same way. Save money, reduce wait times, and make commuting better for everyone with A drop.

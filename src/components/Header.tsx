@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Users } from "lucide-react";
+import adropLogo from "@/assets/adrop-logo.jpg";
 
 const Header = () => {
   return (
@@ -7,11 +7,8 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <div className="flex items-center gap-2">
-            <div className="w-10 h-10 gradient-primary rounded-xl flex items-center justify-center">
-              <Users className="w-5 h-5 text-primary-foreground" />
-            </div>
-            <span className="text-xl font-bold gradient-text">A drop</span>
+          <div className="flex items-center">
+            <img src={adropLogo} alt="A Drop logo" className="h-10" />
           </div>
           
           {/* Navigation */}
