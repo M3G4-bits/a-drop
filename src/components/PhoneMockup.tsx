@@ -43,7 +43,7 @@ const PhoneMockup = () => {
                   <div className="w-3 h-3 rounded-full bg-accent"></div>
                   <div className="flex-1">
                     <p className="text-xs text-muted-foreground">To</p>
-                    <p className="text-sm font-medium text-foreground">City Center</p>
+                    <p className="text-sm font-medium text-foreground">Circuit</p>
                   </div>
                 </div>
               </div>
