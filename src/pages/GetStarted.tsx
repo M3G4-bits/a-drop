@@ -41,7 +41,7 @@ const GetStarted = () => {
       toast({ title: "Sign up failed", description: error.message, variant: "destructive" });
     } else {
       toast({ title: "Account created!", description: "You're now signed in." });
-      navigate("/");
+      navigate("/dashboard");
     }
   };
 
